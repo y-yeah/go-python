@@ -3,7 +3,7 @@ package log
 import (
 	"fmt"
 
-	"github.com/y-yeah/go-python/storage"
+	"github.com/y-yeah/go-python/go/storage"
 )
 
 func PrintOne() {
